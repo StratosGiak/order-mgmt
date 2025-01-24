@@ -15,3 +15,8 @@ The backend constists of a Node.js server written entirely in TypeScript, using 
 _Disclaimer: All data present in the demo is randomly generated, with no reference to any real-world data_
 
 ### Demo
+
+https://github.com/user-attachments/assets/367af67f-0b81-45da-8f7b-2d03ee626c42
+
+https://github.com/user-attachments/assets/b4de97df-9640-4867-99f0-fe97e9f93650
+
